@@ -3,7 +3,7 @@ name: Deploy Site
 on:
   push:
     branches:
-      - main
+      - sp_prod
   workflow_dispatch:
 
 jobs:
